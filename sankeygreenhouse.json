@@ -1,0 +1,22 @@
+{
+"links": [
+{"source":"#awesome","target":"#sadface","value":"35"},
+{"source":"#awesome","target":"#sogood","value":"35"},    
+{"source":"#sadface","target":"#woop!","value":"10"},
+{"source":"#sadface","target":"#sucky","value":"10"},
+{"source":"#sadface","target":"#letsgo!","value":"10"},
+{"source":"#terrible","target":"#letsgo!","value":"10"},
+{"source":"#terrible","target":"#sadface","value":"4"},
+{"source":"#terrible","target":"#sogood","value":"12"},
+{"source":"#sogood", "target":"#woop!","value":"12"}    
+],
+    
+"nodes": [
+{"name": "#awesome"},
+{"name": "#sadface"},
+{"name": "#woop!"},
+{"name": "#sogood"},
+{"name": "#letsgo!"},
+{"name": "#terrible"},
+{"name": "#sucky"}                  
+] }
